@@ -6,9 +6,9 @@ By using the python file, they can easily put input in it. In Jupyter Notebook, 
 
 Since there are many students in every school, they should use a program to manage the information and it can save lots of time.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of how created the Relational Database.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+
+[SQLite Demo Video](https://youtu.be/fGW07BA7ugE)
 
 # Relational Database
 
